@@ -1,0 +1,12 @@
+5
+
+Atlanta
+Charleston
+Pittsburgh
+Philadelphia
+DC
+
+Atlanta Charleston 180 3
+Charleston Pittsburgh 540 9
+Pittsburgh Philadelphia 300 5
+Pittsburgh DC 360 6
